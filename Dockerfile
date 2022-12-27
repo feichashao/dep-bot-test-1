@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ubi-minimal:8.4-212
+FROM registry.access.redhat.com/ubi8/ubi-minimal:8.6-902
 
 
 ARG ocpythonlibver=0.12.1
